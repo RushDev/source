@@ -1,0 +1,9 @@
+Building stakerush
+
+See doc/readme-qt.rst for instructions on building stakerush QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of stakerush.
+
+See doc/build-*.txt for instructions on building stakerushd,
+the intended-for-services, no-graphical-interface, reference
+implementation of stakerush.

@@ -1,0 +1,11 @@
+[Protocol]
+exec=stakerush-qt '%u'
+protocol=stakerush
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,2 @@
+debian/bin/stakerushd usr/bin
+src/stakerushd usr/lib/stakerush
